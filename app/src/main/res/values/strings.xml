@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Today\'s Date in Asgardia is:</string>
+    <string name="my_first_app">My First Application</string>
+    <string name="button">Button</string>
+    <string name="button_text">Click Me!</string>
+    <string name="today_s_date">Today\'s Date</string>
+    <string name="sunday">Sunday</string>
+    <string name="january">January</string>
+</resources>
